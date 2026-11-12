@@ -1,0 +1,6 @@
+{
+  "name": "Prensa Sonora — Generador de Bandas y Géneros",
+  "description": "Generador combinatorio de nombres de bandas de rock ficticias y subgéneros musicales inventados con ficha discográfica y portada procedural.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
